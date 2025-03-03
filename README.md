@@ -11,3 +11,5 @@ Finalmente se puede visualizar un gráfico de dispersión entre el precio de un 
 Esta información es general y es útil para entender el catálogo que tiene esta compañía en su oferta de ventas.
 
 Utilizamos librerías como pandas y plotly. Por favor instalar las librerías del documento 'requirements.txt'
+
+Para desplegar la aplicación se puede hacer desde el siguiente link: https://proyecto-sprint-7-6afu.onrender.com
