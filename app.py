@@ -37,6 +37,8 @@ if build_dispersion_diagram: #Al hacer clic en el checkbox
     st.write('Creación de diagrama de barras para ver la disperción de precio y kilometraje')
     #Creación del diagrama
     fig3 = px.scatter(car_data_modern, x="odometer", y="price")
+    #Mostrar un gráfico Plotly interactivo
+    st.plotly_chart(fig3, use_container_width=True)
     
 
 
